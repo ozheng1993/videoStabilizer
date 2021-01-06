@@ -3,4 +3,6 @@ video
 *.mov
 *.mp4
 *.avi
-.DS_Store
+.DS_Stor
+output
+e
